@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Blender test files / テスト用ファイル
+*.blend
+*.blend1
+*.blend2
+render/
+out/
+
+# Build / 配布用zip
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
