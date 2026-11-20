@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "c7_text_tools"
+version = "0.8.4"
+name = "C7 Text Tools"
+tagline = "Kana scaling, per-char adjust, outline, split and font preview"
+maintainer = "Yumi"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Add Curve", "User Interface"]
+
+[permissions]
+files = "Read installed font files, save favorites/cache"
